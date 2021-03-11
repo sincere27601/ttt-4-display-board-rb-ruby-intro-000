@@ -1,7 +1,7 @@
 
     board = [" ", " ", " ", " ", "x", " ", " ", " ", " "]
     display_board(board)
-  puts "#{tic[0]}", " #{tac[2]}", " #{toe[3]}", "#{ex[4]}"
+  puts "The first box is#{tic[0]}", " The third box is #{tac[2]}", " #The fourth box is {toe[3]}", "The fifth box is #{ex[4]}"
 
   puts "   |   |   "
   puts "-----------"
